@@ -2,6 +2,7 @@
 - [Description](#description)
 - [Dataset](#dataset)
 - [Citation](#citation)
+- [License](#license)
 
 ## Description
 
@@ -55,3 +56,6 @@ Please cite the following paper if you decise to use the dataset:
 
     Gaanoun, K., Naira, A. M., Allak, A., & Benelallam, I. (2022). Automatic Text Summarization for Moroccan Arabic Dialect
     Using an Artificial Intelligence Approach. In International Conference on Business Intelligence (pp. 158-177). Springer, Cham.
+    
+## License
+The dataset is distributed under the CC BY 4.0 license.
