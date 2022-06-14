@@ -52,7 +52,7 @@ The dataset is split into Train/Test subsets using a 90/10 split strategy. Both 
                       
 ## Citation
 
-Please cite the following paper if you decise to use the dataset:
+Please cite the following paper if you decide to use the dataset:
 
     Gaanoun, K., Naira, A. M., Allak, A., & Benelallam, I. (2022). Automatic Text Summarization for Moroccan Arabic Dialect
     Using an Artificial Intelligence Approach. In International Conference on Business Intelligence (pp. 158-177). Springer, Cham.
